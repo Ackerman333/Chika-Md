@@ -36,7 +36,7 @@ global.footer = '© IRJA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.youtube = 'http://bit.ly/ir_ja'
 global.ig = 'https://instagram.com/irja_official'
 global.mygc = 'https://chat.whatsapp.com/Fd92L258maQ6lWjIua6Djq'
-global.myweb = 'http://bit.ly/ir_ja'
+global.myweb = 'https://linktr.ee/irja_'
 global.email = 'irjaz110@gmail.com'
 global.region = 'indonesia'
 
