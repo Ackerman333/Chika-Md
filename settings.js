@@ -35,7 +35,7 @@ global.footer = '© IRJA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/irja_official'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.mygc = 'https://chat.whatsapp.com/Fd92L258maQ6lWjIua6Djq'
 global.myweb = 'http://bit.ly/ir_ja'
 global.email = 'irjaz110@gmail.com'
 global.region = 'indonesia'
