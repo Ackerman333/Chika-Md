@@ -5,21 +5,14 @@
 › Kalau mau tambahin fitur di index.js
 */
 
-//—————「 Menu 」—————//
-exports.menu = (botname, pushname, salam) => {
-	return`Selamat ${salam} kak ${pushname}
-
-Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
-}
 
 //—————「 List 」—————//
 exports.list = (pushname) => {
 	return`Halo kak ${pushname}, silahkan dipilih list menu dibawah ini`
 }
 
-//—————「 All Menu 」—————//
-exports.allmenu = (prefix, pushname, botname, time, salam) => {
+//—————「 Menu 」—————//
+exports.menu = (prefix, pushname, botname, time, salam) => {
 return`  _Selamat ${salam} kak ${pushname}_
 
   *⏰ Time Server : ${time}*
