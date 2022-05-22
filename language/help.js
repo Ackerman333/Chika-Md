@@ -432,7 +432,7 @@ return`  _Selamat ${salam} kak ${pushname}_
 }
 
 //—————「 Welcome 」—————//
-exports.welcome = () => {
+exports.welcome
 	return`Welcome
 `
 }
