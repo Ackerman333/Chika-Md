@@ -111,7 +111,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}cry
   *≻* ${prefix}hug
   *≻* ${prefix}awoo
-  *≻* ${prefix}kiss
   *≻* ${prefix}lick
   *≻* ${prefix}pat
   *≻* ${prefix}smug
@@ -137,10 +136,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}husbu
   *≻* ${prefix}neko
   *≻* ${prefix}shinobu
-  *≻* ${prefix}waifus 
-  *≻* ${prefix}nekos 
-  *≻* ${prefix}trap 
-  *≻* ${prefix}blowjob 
+
   
   *TEXT PRO MENU*
   *≻* ${prefix}3dchristmas
