@@ -427,18 +427,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   `
 }
 
-//—————「 Welcome 」—————//
-exports.welcome = (prefix) => {
-	return`Welcome
-`
-}
-
-//—————「 Leave 」—————//
-exports.leave = (prefix) => {
-	return`Byeee
-`
-}
-
 //—————「 Donasi 」—————//
 exports.donasi  = (ownernomer) => {
 	return`
