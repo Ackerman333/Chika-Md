@@ -428,13 +428,13 @@ return`  _Selamat ${salam} kak ${pushname}_
 }
 
 //—————「 Welcome 」—————//
-exports.welcome = () => {
+exports.welcome = (prefix) => {
 	return`Welcome
 `
 }
 
 //—————「 Leave 」—————//
-exports.leave = () => {
+exports.leave = (prefix) => {
 	return`Byeee
 `
 }
