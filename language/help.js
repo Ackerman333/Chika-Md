@@ -215,9 +215,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}jodohku
   *≻* ${prefix}tictactoe
   *≻* ${prefix}delttt
-  *≻* ${prefix}family100
-  *≻* ${prefix}tebak [option]
-  *≻* ${prefix}math [mode]
   *≻* ${prefix}suitpvp [@tag]
 
   *PRIMBON MENU*
