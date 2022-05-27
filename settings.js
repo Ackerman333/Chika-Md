@@ -18,7 +18,7 @@ zenz: 'https://zenzapis.xyz',
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
 //gausah di apa² in, udah free apikey :)
-'https://zenzapis.xyz': '9d385a4e12bf',
+'https://zenzapis.xyz': 'BF39D349845E',
 }
 
 //—————「 Setting Owner 」—————//
